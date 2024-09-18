@@ -1,4 +1,7 @@
+<<<<<<< HEAD
 test4
 test3
+=======
+>>>>>>> parent of 2fb6ee9... add test3 in test1.txt'
 test2
 tset1
